@@ -1,2 +1,4 @@
-# Project exclude paths
-/IOC/target/
+.idea/
+target/
+changgou_parent.iml
+.gitignore
